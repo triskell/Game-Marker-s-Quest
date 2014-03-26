@@ -24,4 +24,9 @@
 
 ## S'entrainer
 * [Ludum Dare](http://www.ludumdare.com/) : Développez un jeu en un week-end
+* [Global Game Jam](http://globalgamejam.org/): Dans le mêm genre que Ludum Dare
 * [One Game A Month](http://www.onegameamonth.com/) : Développez un jeu par mois
+
+=========================
+## Remerciements
+@YoruNoHikage
